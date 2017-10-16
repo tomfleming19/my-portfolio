@@ -4,7 +4,7 @@ Professional portfolio a cloud guru
 
 Technologies used
 
-git and github
+git and github     git add fn; git commit -m "TEXT about Changes"; git push #push to github
 ssh
 html
 css
