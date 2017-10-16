@@ -5,3 +5,9 @@ Technologies used
 
 git and github
 ssh
+html
+css
+route53
+s3
+iam
+
